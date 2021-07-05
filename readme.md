@@ -1,2 +1,2 @@
-olá vamos ver se essa merda funciona
-será que ele vai atualizar isso msm?
+# Lista Ponteiros:
+## Alunos Roosewelt Muniz Marinho Junior e Brenner
